@@ -1,6 +1,8 @@
 # Tamil SMS Discord Bot
 
-Tamil SMS Discord bot - Get Tamil Kavithai on your Discord Server.
+Tamil SMS Discord bot - Get Tamil Kavithai on your Discord Server.  
+
+[![Tamil SMS Bot](https://raw.githubusercontent.com/mskian/tamil-sms-discordbot/main/screenshot.png)]  
 
 ## Guides
 
