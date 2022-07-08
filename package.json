@@ -1,0 +1,31 @@
+{
+  "name": "tamil-sms-discordbot",
+  "version": "0.0.1",
+  "description": "Tamil SMS Discord Bot for Sending Tamil Kavithai and Quotes to the Channels.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskian/tamil-sms-discordbot.git"
+  },
+  "keywords": [
+    "tamilsms",
+    "kavithai",
+    "bot",
+    "discord"
+  ],
+  "author": "Santhosh Veer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mskian/tamil-sms-discordbot/issues"
+  },
+  "homepage": "https://github.com/mskian/tamil-sms-discordbot#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1"
+  }
+}
